@@ -1,8 +1,7 @@
 body{
-   overflow: show;
-
- }
- .bg{
+   
+}
+.bg{
    background-image: url(images/donation0.jpg);
    height: 620px;
    position: relative;
