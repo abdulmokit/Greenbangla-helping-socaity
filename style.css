@@ -1,0 +1,144 @@
+body{
+   overflow: show;
+
+ }
+ .bg{
+   background-image: url(images/donation0.jpg);
+   height: 620px;
+   position: relative;
+   background-position: center;
+   background-repeat: no-repeat;
+background-size: cover;
+ }
+
+ section{
+    display: flex;
+    text-align: center;
+ }
+ .half-width{
+   
+    width: 50%;
+
+ }
+ .rate{
+    width: 50%;
+    text-align: center;
+ }
+ .text input{
+   width: 100%;
+   border-color: bisque;
+   border: none;
+   margin-top: 30px;
+   cursor: pointer
+   ;
+   padding: 10px;
+
+   text-align: center;
+ }
+ .text{
+ display: flex;
+ }
+ .link-button{
+   color: aliceblue;
+   text-align: center;
+   border-radius: 10px 40px;
+    text-decoration: none;
+    font-size: large;
+    text-decoration: none;
+  
+ }
+ .donate-today{
+   text-align: center;
+ }
+ .donate-plan{
+   margin-top: 90px;
+   text-align: center;
+ }
+ .education-button{
+  margin: 10px;
+  padding-top: 10px;
+   background: yellow;
+
+
+ }
+ .shelter-button{
+   margin: 10px;
+  padding-top: 10px;
+   background-color: bisque;
+ }
+ .food-button{
+   margin: 10px;
+   padding-top: 10px;
+   background-color: darkgoldenrod;
+ }
+ .half-width{
+   margin: 50px;
+   display: flex;
+   margin-top: 15%;
+   margin-right: 50%;
+  
+ }
+ .half-width img{
+   margin-top: 5%;
+   margin-left: 50%;
+
+   width: 80%;
+   height: 100%;
+ }
+ .how{
+   background-color:darkgoldenrod;
+   color: white;
+   border-radius: 5px;
+   margin: 10px;
+   text-decoration: none;
+ }
+ .half-width img{
+      margin: 50px;
+      display: flex;
+      margin-top: 5%;
+      margin-right: 50%;
+
+ }
+ .half-width{
+   margin: 50px;
+   display: flex;
+   margin-top: 15%;
+   margin-right: 50%;
+ }
+ .subscriber-button{
+   padding: 20px;
+   width: 50%;
+   width: auto;
+   text-align: center;
+   margin-left: 400px;
+   margin-right: 400px;
+   background: yellowgreen;
+ }
+ .subscriber{
+   text-align: center;
+ }
+ .footer{
+   padding-top: 10px;
+   padding-bottom: 10px;
+   margin-top: 10%;
+   text-align: center;
+   color: white;
+   background: black;
+ }
+ #button-color{
+  margin-top: 5%;
+  margin-bottom: 5%;
+   color: red;
+   background: yellow;
+ }
+ #button{
+
+   padding: 20px;
+   width: 50%;
+   width: auto;
+   text-align: center;
+   margin-left: 300px;
+   margin-right: 300px;
+   background: yellow;
+ }
+ 
